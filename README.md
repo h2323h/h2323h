@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hüsna Öktem
 - 👀 Yazılım, web tasarım, yapay zeka
-- 🌱  c++, html,c
+- 🌱  c++, html,c,dart
 - 💞️ I’m looking to collaborate on ...
 - 📫  husnaoktem23@hotmail.com
 
